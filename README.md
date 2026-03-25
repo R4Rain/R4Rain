@@ -1,13 +1,5 @@
 <div align="center">
 
-```ascii
-  ____  _  _   ____  _   _  ___  _   _ 
- |  _ \| || | |  _ \| | | ||_ _|| \ | |
- | |_) | || |_| |_) | |_| | | | |  \| |
- |  _ <|__   _|  _ <|  _  | | | | |\  |
- |_| \_\  |_| |_| \_\_| |_||___||_| \_|
-```
-
 ### Hey there! I'm James 👋
 #### Backend Developer | Cloud Enthusiast | Code Craftsman
 
